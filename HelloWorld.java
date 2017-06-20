@@ -1,4 +1,5 @@
 package com.hello;
+import java.lang.String;
 
 public class HelloWorld
 {
